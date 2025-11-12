@@ -1,8 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>Backend systems with Python, Node.js & TypeScript — building APIs, services, and scalable architectures. Transitioned from frontend a year ago — still love the web, just from the server side now.<br><br>🌱 I’m currently learning<br>System design, async Python (FastAPI/asyncio), and deeper backend patterns. Also brushing up on robotics software stacks — because why not?<br>
-<div align="right">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFzN3V6d3Nobmp4b2FuaTQ5N3JzOTFleWdzNDg2cTMxMWMya3ZnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif" width="270"/>
-</div>
+
 
 
 ## 🌐 Socials:
